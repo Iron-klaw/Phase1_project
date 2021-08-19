@@ -1,0 +1,10 @@
+1003,Vikas,3,A,maths
+
+
+1001,Amith,10,C,phy
+
+
+1004,Chitra,8,D,arts
+
+
+
